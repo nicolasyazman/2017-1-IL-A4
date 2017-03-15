@@ -31,5 +31,10 @@ namespace IntechCode.IntechCollection
         {
             throw new NotImplementedException();
         }
+        public IMyEnumerator<T> GetEnumerator()
+        {
+            throw new NotImplementedException();
+        }
+
     }
 }
